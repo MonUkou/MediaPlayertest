@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace Testproject
 {
-    public partial class Form1: Form
+    public partial class Tt_WMP: Form
     {
-        public Form1()
+        public Tt_WMP()
         {
             InitializeComponent();
         }
 
         private void btn_Add_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
         {
 
         }

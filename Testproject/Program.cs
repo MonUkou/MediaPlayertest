@@ -16,7 +16,7 @@ namespace Testproject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new WindowMediaPlayer());
+            Application.Run(new Tt_WMP());
         }
     }
 }
